@@ -1,0 +1,3 @@
+* Sweet-theme
+An Emacs theme inspired by the GTK theme Sweet.
+[[./screenshot.png]]
