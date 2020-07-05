@@ -1,4 +1,4 @@
-;;; sweet-theme.el --- Sweet-looking theme
+;;; sweet-theme.el --- Sweet-looking theme -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020  weebojensen
 
