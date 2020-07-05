@@ -4,7 +4,7 @@
 
 ;; Author: 2bruh4me
 ;; Keywords: faces
-;; Version: 1
+;; Version: 2
 ;; URL: https://github.com/2bruh4me/sweet-theme
 
 ;; This program is free software; you can redistribute it and/or modify
