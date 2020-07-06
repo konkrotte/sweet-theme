@@ -33,9 +33,9 @@
 (eval-and-compile
   (defvar sweet-colors-alist
     (let* ((256color  (eq (display-color-cells (selected-frame)) 256))
-           (colors `(("sweet-accent"   . "#fc1c5b")
-                     ("sweet-fg"       . "#b8c0d4")
-                     ("sweet-bg"       . "#222235")
+           (colors `(("sweet-accent"   . (if ,256color "197" "#fc1c5b"))
+                     ("sweet-fg"       . (if ,256color "252" "#b8c0d4"))
+                     ("sweet-bg"       . (if ,256color "236" "#222235"))
                      ("sweet-bg-1"     . "#292235")
                      ("sweet-bg-hl"    . "#28283f")
                      ("sweet-gutter"   . "#a2a9ba")
