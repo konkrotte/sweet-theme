@@ -46,7 +46,7 @@
                      ("sweet-blue"     . "#06c993")
                      ("sweet-purple"   . "#e17df3")
                      ("sweet-green"    . "#06c993")
-                     ("sweet-red-1"    . "#f60055")
+                     ("sweet-red-1"    . "#f6717e")
                      ("sweet-red-2"    . "#ff4769")
                      ("sweet-orange-1" . "#f6ce55")
                      ("sweet-orange-2" . "#c7be5a")
