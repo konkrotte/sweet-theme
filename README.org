@@ -1,4 +1,4 @@
 * Sweet-theme
-[![MELPA](https://melpa.org/packages/sweet-theme-badge.svg)](https://melpa.org/#/sweet-theme)
+[[https://melpa.org/#/sweet-theme][file:https://melpa.org/packages/sweet-theme-badge.svg]]
 An Emacs theme inspired by the GTK theme Sweet.
 [[./screenshot.png]]
